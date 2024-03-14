@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "cover_image": "../src/assets/images/1.jpg",
+      "title": "The Art of Coding: Mastering the Craft",
+      "author": "John Doe",
+      "author_image": "../src/assets/images/boy1.png",
+      "posted_date": "March 14, 2024",
+      "reading_time": 10,
+      "tags": ["#Coding", "#Programming", "#Skills"]
+    },
+    {
+      "id": 2,
+      "cover_image": "../src/assets/images/2.png",
+      "title": "Exploring the Depths of Artificial Intelligence",
+      "author": "Jane Smith",
+      "author_image": "../src/assets/images/boy2.png",
+      "posted_date": "March 13, 2024",
+      "reading_time": 15,
+      "tags": ["#AI", "#MachineLearning", "#DataScience"]
+    },
+    {
+      "id": 3,
+      "cover_image": "../src/assets/images/3.png",
+      "title": "Unlocking Creativity: Finding Inspiration Everywhere",
+      "author": "Alice Johnson",
+      "author_image": "../src/assets/images/boy3.png",
+      "posted_date": "March 12, 2024",
+      "reading_time": 15,
+      "tags": ["#Creativity", "#Inspiration", "#Art"]
+    },
+    {
+      "id": 4,
+      "cover_image": "../src/assets/images/4.jpg",
+      "title": "The Future of Work: Embracing Remote Collaboration",
+      "author": "Michael Brown",
+      "author_image": "../src/assets/images/boy4.png",
+      "posted_date": "March 11, 2024",
+      "reading_time": 30,
+      "tags": ["#RemoteWork", "#Collaboration", "#Productivity"]
+    }
+  ]
+  
